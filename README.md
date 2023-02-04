@@ -1,4 +1,4 @@
-# toDo-List-Project
+# ToDo List Project
 
 A simple, yet effective Todo List website built using HTML, JavaScript, and CSS. The purpose of this project was to put into practice the knowledge acquired in and outside the classroom and create a helpful tool for staying organized.
 
